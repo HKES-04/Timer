@@ -15,7 +15,7 @@ This is a timer where the user has the ability to input the minutes and seconds 
 ### Links
 
 - Solution URL: (https://github.com/HKES-04/Timer.git)
-- Live Site URL: (https://hkes-04.github.io/Dice-Game/)
+- Live Site URL: (https://hkes-04.github.io/Timer/)
 
 ## My process
 
